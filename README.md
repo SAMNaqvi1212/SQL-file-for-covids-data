@@ -1,0 +1,1 @@
+# SQL-file-for-covids-data
